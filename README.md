@@ -29,7 +29,7 @@ Este repositório contém o projeto desenvolvido durante o curso de Angular. O o
 ## 🚀 Como Executar
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/angular-course-project.git
+   git clone https://github.com/vinicads/projetoAngular.git
    ```
 2. Instale as dependências:
    ```bash
