@@ -10,15 +10,7 @@ Este repositório contém o projeto desenvolvido durante o curso de Angular. O o
 - Construir um projeto funcional seguindo as boas práticas.
 
 ## 💽 Estrutura do Projeto
-```
-- src/
-  - app/
-    - components/
-    - services/
-    - models/
-  - assets/
-  - environments/
-```
+- **/frontend**: Primeiro projeto em angular, aprendendo os conceitos.
 
 ## 🛠️ Tecnologias Utilizadas
 - Angular
@@ -42,13 +34,9 @@ Este repositório contém o projeto desenvolvido durante o curso de Angular. O o
 4. Acesse no navegador: [http://localhost:4200](http://localhost:4200).
 
 ## 📚 Progresso do Curso
-- [x] Introdução ao Angular
-- [x] Instalação e Configuração
-- [ ] Componentes e Templates
-- [ ] Serviços e Injeção de Dependência
-- [ ] Rotas e Navegação
-- [ ] Integração com APIs
-- [ ] Deploy da Aplicação
+- Introdução ao Angular
+- Instalação e Configuração
+- Componentes e Templates
 
 ## 🛡️ Licença
 Este projeto é apenas para fins de aprendizado. Fique à vontade para explorar e modificar.
