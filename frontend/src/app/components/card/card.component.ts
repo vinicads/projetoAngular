@@ -8,5 +8,10 @@ import { Component } from '@angular/core';
   styleUrl: './card.component.scss'
 })
 export class CardComponent {
+  tipo="Simples"
+  preco=100
 
+  getFullPrice(){
+    return 'R$' + this.preco + ',00/Mes'
+  }
 }
